@@ -3,7 +3,7 @@
 
 ____
 
-![Лого](https://ibb.co/FbMRN8z "logo")
+![Лого](https://i.ibb.co/nsvxZQj/image.jpg "logo")
 EconomyBot - дискорд бот, написаный на javascript. В нем очень хорошо проработана экономика и т.к. он новый - он постоянно дорабатывается. Ниже вы можете видеть все команды EconomyBot.
 
 ____
